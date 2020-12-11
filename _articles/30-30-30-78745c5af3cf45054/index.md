@@ -1,7 +1,7 @@
 ---
 title: "30/30/30"
 created_at: 2019-02-06T22:48:47.000Z
-published_at: 2019-02-07T04:58:42.000Z
+published_at: 2019-02-06T04:58:42.000Z
 ---
 What a beautiful anniversary with the 200WaD.  :)
 
